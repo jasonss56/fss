@@ -1,0 +1,38 @@
+﻿body{font-family:Tahoma, Verdana, Arial, sans-serif;}
+.remind{position:fixed; top:0px; width:100%; text-align:center; z-index:9999; display:none;}
+
+.fs-item-uploadbox{
+    text-align:center;
+    background-color: #fff;
+    width: 95%;
+    max-width:500px;
+    margin: 0 auto;
+    position:relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border:2px dashed #cccccc;
+    padding:30px;
+    border-radius:8px;
+}
+.fs-item{
+    text-align:center;
+    background-color: #fff;
+    width: 95%;
+    max-width:500px;
+    margin: 0 auto;
+    position:relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding:20px;
+	/*border:1px solid #000000;*/
+}
+.fs-item .item-floatLeft{
+    float:left;
+    width:100%;
+	text-align:left;
+	position:relative;
+}
