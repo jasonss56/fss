@@ -7,4 +7,3 @@
 
 ## 支持
 - NowAPI数据接口 https://www.nowapi.com
-- FSS示例 https://fss.nowapi.net
